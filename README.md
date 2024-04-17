@@ -18,5 +18,5 @@ portfolio ***HTML*** website for beginner -- practicing using basic tools to cre
 
 ### Collaborators
 
-@sayomphoo
+- @num12class615
 - @ThanyalakSasen
