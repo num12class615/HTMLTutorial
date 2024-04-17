@@ -16,4 +16,7 @@ portfolio ***HTML*** website for beginner -- practicing using basic tools to cre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
+### Collaborators
+
+- @num12class615
+- @ThanyalakSasen
