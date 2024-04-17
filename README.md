@@ -1,6 +1,6 @@
 # HTMLTutorial
 
-portfolio HTML website for beginner
+portfolio ***HTML*** website for beginner -- practicing using basic tools to create websites.
 
 ### tools
 
