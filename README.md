@@ -5,7 +5,7 @@ portfolio ***HTML*** website for beginner -- practicing using basic tools to cre
 ### Tools
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>](https://www.figma.com/file/4nShFjkjghQEMbT0gQtVRS/HTMLTutorial?type=design&node-id=0-1&mode=design&t=tgx8cWZb5rm19fV4-0)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />](https://htmltutorial.atlassian.net/jira/software/projects/HTMLTUT/boards/1?selectedIssue=HTMLTUT-7)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />](https://github.com/num12class615/HTMLTutorial)
 
 ### Code language
