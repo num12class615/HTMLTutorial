@@ -1,3 +1,20 @@
  body {
     background-color: rgb(40, 41, 62, 1);
  }
+ .card {
+    margin: 0 auto;
+    float: none;
+    background-color: rgba(239, 109, 88, 1);
+    width: 1170px;
+    height: 554px;
+    box-shadow: 0 4 px 8px rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    border-radius: 5px;
+ }
+ .container{
+    padding: 50px 50px;
+ }
+
+ img{
+    border-radius: 5px;
+ }
