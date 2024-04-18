@@ -1,9 +1,15 @@
  body {
     background-color: rgb(40, 41, 62, 1);
+
+ }
+ .center{
+    height: 100vh; /*vh เป็นหน่วยของความสูงของหน้าจอ*/
+    display: flex; /*ทำให้เรียงจากซ้่ายไปขวา เพราะปกติจะเรียงจากบนลงล่าง*/
+    justify-content: center; /*การจัดซ้ายขวา*/
+    align-items: center; /*การจัดบนล่าง*/
+    
  }
  .card {
-    margin: 0 auto;
-    float: none;
     background-color: rgba(239, 109, 88, 1);
     width: 1170px;
     height: 554px;
